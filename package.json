@@ -2,7 +2,6 @@
   "name": "adminplus-boilerplate-gulp",
   "version": "1.0.0",
   "description": "Simple Gulp workflow using AdminPlus",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "surge --project ./dist"
@@ -15,7 +14,10 @@
     "gulp",
     "gulp-sass",
     "node-sass",
-    "boilerplate"
+    "boilerplate",
+    "workflow",
+    "theme",
+    "sass"
   ],
   "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
   "license": "ISC",
