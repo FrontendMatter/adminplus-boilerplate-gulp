@@ -4,7 +4,7 @@ Simple gulp boilerplate for [AdminPlus Lite Bootstrap Theme](https://github.com/
 > Read the full guide [Simple gulp workflow](http://adminplus.themekit.io/gulp-simple-workflow). You can also [see a working live demo](http://gulp.adminplus-boilerplate.themekit.io) of this boilerplate.
 
 ### Features
-See [Features](http://adminplus.themekit.io/gulp-simple-workflow/#features)
+See [Features](http://adminplus.themekit.io/gulp-simple-workflow#features)
 
 ### Advanced boilerplate
 Fore more advanced features such as file watchers, minify, browser vendor prefixes, browserify and more, see our [Advanced gulp boilerplate](https://github.com/themekit/adminplus-boilerplate-gulp-advanced).
