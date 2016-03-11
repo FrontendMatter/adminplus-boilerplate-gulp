@@ -2,7 +2,7 @@
 Simple gulp boilerplate for [AdminPlus Lite Bootstrap Theme](https://github.com/themekit/adminplus).
 
 ### Demo
-> You can also [see a working live demo](http://gulp.adminplus-boilerplate.themekit.io) of this boilerplate.
+> You can [see a working live demo](http://gulp.adminplus-boilerplate.themekit.io) of this boilerplate.
 
 ### Usage
 > Read the full guide [Simple gulp workflow](http://adminplus.themekit.io/gulp-simple-workflow). 
