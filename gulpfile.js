@@ -10,7 +10,10 @@ gulp.task('sass', function () {
 
 gulp.task('copy-vendor', function () {
 	return gulp.src([
-		'adminplus/dist/adminplus.js',
+		'simplebar/dist/simplebar.min.js',
+		'simplebar/dist/simplebar.css',
+		'bootstrap-layout/dist/bootstrap-layout.js',
+		'bootstrap-layout-scrollable/dist/bootstrap-layout-scrollable.js',
 		'bootstrap/dist/js/bootstrap.min.js',
 		'jquery/dist/jquery.min.js',
 		'tether/dist/js/tether.min.js',
